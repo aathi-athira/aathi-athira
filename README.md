@@ -18,15 +18,16 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-## Software Engineer Researcher
+## AI/ML Engineer ・ Researcher・ International Marketing Manager
 
 ### About Me
 
-- 🤖 AI Engineer passionate about machine learning, NLP, and LLMs
+- 🤖 AI ML Engineer・International Marketing Manager at ERISA.Co.Ltd.
 - 🧪 I enjoy bridging research and engineering to build data-driven solutions
-- 🛠️ Currently working with Python, React, and various AI frameworks
-- 📊 Interested in statistical modelling and AI application development
-- ✉️  You can connect with me at [athira220422@gmail.com](mailto:athira220422@gmail.com)
+- 🛠️ Currently working with Python, React, and various AI frameworks.
+- 📊 Interested in AI application modelling and Web Development.
+- 🏢 Ex-intern at BraveStudio Inc., Japan (Ruby on Rails), ERISA.Co.Ltd, Japan (Medical software Research)
+- ✉️ Connect with me at [athira220422@gmail.com](mailto:athira220422@gmail.com)
 
 ### Tech Stack
 
